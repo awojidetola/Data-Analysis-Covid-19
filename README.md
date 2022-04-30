@@ -32,3 +32,27 @@ The data types of the dataset were converted from string type to integer type as
 * The relationship between the Lab Confirmed Cases and Population Density was visualized using Seaborn's Regplot
 * The GDP for Seven years was visualized to check the effect on Covid 19 on the GDP
 * The effect of the National Budget for each state was visualized and the Initial Budget (before the Pandemic) was compared to the Revised (After the Pandemic)
+
+# Visualizing the COVID 19 Pandemic using Tableau
+
+# Visualizing-the-COVID-19-Pandemic
+
+**Please find these visuals in Tableau Public here:** https://public.tableau.com/app/profile/margaret.awojide/viz/Book1_16341217339570/Story1
+
+This project gives a visual explanation of the Covid 19 Pandemic for all countries of the World, analyzing each country and the Confirmed Cases, Recovered Cases and Death Cases. 
+
+## Visual 1
+The first visual shows the Death Statistics for Covid 19 in 2020. With United States having the highest number of Death Cases followed by Brazil and India. 
+
+## Visual 2
+The second visual shows the Confirmed Cases and Death Cases in all countries of the World. Here, the size increases with an increased number of Confirmed cases and the color intensifies with an increased number of Death Cases.
+
+## Visual 3
+The third visual shows the line plot comparing the three most affected countries and how confirmed cases increased over time in 2020. 
+
+## Visual 4
+The fourth visual shows the line plot comparing the Confirmed, Recovered and Death Cases, clearly depicting that Recovery rate was higher than the Death rate. 
+
+![Visual1_2](https://user-images.githubusercontent.com/49078266/137206086-12bb023d-5936-4412-ab96-9853881917f5.png)
+![Visual3_4](https://user-images.githubusercontent.com/49078266/137206118-f5a1d0a1-e5cd-4e5a-8e7b-116a94f5cef7.png)
+
