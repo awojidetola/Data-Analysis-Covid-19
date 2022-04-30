@@ -35,8 +35,6 @@ The data types of the dataset were converted from string type to integer type as
 
 # Visualizing the COVID 19 Pandemic using Tableau
 
-# Visualizing-the-COVID-19-Pandemic
-
 **Please find these visuals in Tableau Public here:** https://public.tableau.com/app/profile/margaret.awojide/viz/Book1_16341217339570/Story1
 
 This project gives a visual explanation of the Covid 19 Pandemic for all countries of the World, analyzing each country and the Confirmed Cases, Recovered Cases and Death Cases. 
